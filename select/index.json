@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ルカ",
+  "base_artist": "ウィーン・マルガレーテ (CV.結那)",
+  "createdAt": "2025-12-14T05:29:06.347556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルカ",
+      "artist": "仲野順也",
+      "has_synced": false,
+      "path": "select/01_ルカ_仲野順也.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルカ / Luca",
+      "artist": "仲野順也",
+      "has_synced": false,
+      "path": "select/02_ルカ___Luca_仲野順也.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルカ",
+      "artist": "ウィーン・マルガレーテ (CV.結那)",
+      "has_synced": false,
+      "path": "select/pl_01_ルカ_ウィーン・マルガレーテ_(CV.結那).txt"
+    }
+  ]
+}
